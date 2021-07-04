@@ -1,0 +1,14 @@
+#headerId{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: grey 5px 5px 5px 5px;
+    width:97vw;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.imgHeader{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+}

@@ -1,0 +1,22 @@
+#skillsContactID {
+    margin: auto;
+    margin-top: 50px;
+    width: 80vw;
+}
+
+#listOfDevSkills{
+    text-align: left;
+}
+
+#listOfProfessionalSkills{
+    direction:rtl
+}
+
+#listOfpersonalSkills{
+    text-align: right;
+    direction:rtl
+}
+
+.headLine{
+    text-align: center;
+}

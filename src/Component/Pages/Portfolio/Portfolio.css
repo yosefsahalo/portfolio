@@ -1,0 +1,49 @@
+.portfolioImg{
+    width: 35vw;
+    height: 54.5vh;
+}
+
+.portParhId{
+    margin: auto;
+    width: 60vw;
+}
+
+.cardPortfolioId{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 90vw;
+    box-shadow: grey 5px 5px 5px 5px;
+    margin-bottom: 45px;
+    direction:rtl;
+}
+
+.pPortfolioId{
+    text-align: right;
+}
+
+.iconsLinls{
+    display: flex;
+    box-shadow: grey 5px 5px 5px 5px;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 70px;
+}
+
+.spanHover{
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+}
+  
+  .textHover:hover .spanHover{
+    visibility:visible;
+}

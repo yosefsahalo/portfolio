@@ -1,0 +1,42 @@
+#topicImg{
+    width: 98.5vw;
+    height: 50vh;
+    box-shadow: grey 5px 5px 5px 5px;
+    margin-bottom: 45px;
+}
+
+#divId{
+    text-align: right;
+    margin: auto;
+    width: 85vw;
+    margin-bottom: 45px;
+    background: rgba(128, 128, 128, 0.301);
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: #808080f7 -1px 2px 14px 20px;
+}
+
+.pargraphIdChild{
+    direction:rtl;
+}
+
+.card{
+    margin: auto;
+    width: 90vw;
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: grey 5px 5px 5px 5px;
+    margin-bottom: 40px;
+    direction:rtl;
+}
+
+.images{
+    width: 40vw;
+    height: 50vh;
+}
+
+.cardPargraph{
+    width: 35vw;
+    margin: auto;
+}

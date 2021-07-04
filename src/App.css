@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  padding-bottom:60px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column
 }
 
 .App-logo {
@@ -26,6 +30,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+#divAppID{
+  display: flex;
+  justify-content: space-around;
 }
 
 @keyframes App-logo-spin {

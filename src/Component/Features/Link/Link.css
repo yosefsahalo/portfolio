@@ -1,0 +1,14 @@
+#divLinkID{
+    display: flex;
+    flex-flow: column-reverse;
+    justify-content: space-between;
+    margin-top: 250px;
+    position: fixed;
+    left:20px;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
